@@ -1,7 +1,8 @@
 - 👋 Hi, I’m koch52h
 - 🇨🇳 Bachelor's degree from Dalian University of Technology (DLUT) 2017~2021.
 - 🇯🇵 Two years of exchange at Ritsumeikan University (dual undergraduate degree) 2019~2021
-- 🇯🇵 I’m currently learning in Kyoto University 2022~now.
+- 🇯🇵 Master's degree from Kyoto University 2022.4~2024.3.
+- 🇯🇵 I’m currently learning in Kyoto University 2024~now.
 - 📖 Research Keywords: deep learning theory, classification, imbalance, neural collapse, layer-peeled model
 - 📫 chuang.ma.kyotou[at]gmail.com
 
